@@ -32,4 +32,12 @@ We should practice compartmentalization and use a new email address for our webs
 	- **Country of Operation:** Canada
 	- **Support for Custom Domains:** Requires premium plan
 
-# References
+ 
+# Hosting Provider
+A **web hosting provider** is a service that stores your website's files and makes them accessible on the internet. Think of it as renting space on a server, which is like a digital home for your website. Hosting providers manage the technical infrastructure so that your site is always available to visitors.
+
+There are various types of hosting:
+
+- **Shared Hosting**: Multiple websites share the same server, making it affordable but less customizable.
+- **Cloud Hosting**: A scalable solution that uses multiple servers to handle traffic spikes effectively.
+- **Dedicated Hosting**: A server reserved entirely for your website, providing maximum performance and control.
